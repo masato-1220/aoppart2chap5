@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">aop-part2-chapter05-final</string>
+    <string name="start_photo_frame">電子アルバムを始める</string>
+    <string name="add_photo">写真を追加する</string>
+</resources>
